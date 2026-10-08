@@ -16,6 +16,8 @@ import javafx.stage.Stage;
  *
  * @author Avery
  */
+
+//Hello, folks!
 public class GUIclass extends Application {
     
     @Override
